@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.upc.epsevg.prop.checkers.players","l":"ElMeuStatus"},{"p":"edu.upc.epsevg.prop.checkers.players","l":"GameInfo"},{"p":"edu.upc.epsevg.prop.checkers.players","l":"HumanPlayer"},{"p":"edu.upc.epsevg.prop.checkers.players","l":"MyPlayer"},{"p":"edu.upc.epsevg.prop.checkers.players","l":"MyPlayerIDS"}]
